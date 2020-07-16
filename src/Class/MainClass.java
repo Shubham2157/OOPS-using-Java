@@ -1,6 +1,4 @@
-package OOPS;
-
-import javafx.css.Size;
+package Class;
 
 class Cat{
     boolean isfur;
