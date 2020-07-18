@@ -13,4 +13,8 @@ public class StaticBlock {
             System.out.println("Main fun executed executed");
 
     }
+    static {
+        System.out.println("Block 3 executed");
+    }
+
 }
