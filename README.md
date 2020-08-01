@@ -1,6 +1,7 @@
 # OOPS-using-Java
 
 Access modifier
+![image](https://user-images.githubusercontent.com/50911878/89090987-063e0500-d3c4-11ea-81d7-764de76566d7.png)
 https://user-images.githubusercontent.com/50911878/87622485-d8f52400-c740-11ea-8680-25aff758fb86.png
 
 access modifier scope
