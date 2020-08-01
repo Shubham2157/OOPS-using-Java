@@ -5,7 +5,7 @@ Access modifier
 https://user-images.githubusercontent.com/50911878/87622485-d8f52400-c740-11ea-8680-25aff758fb86.png
 
 access modifier scope
-https://user-images.githubusercontent.com/50911878/87623139-566d6400-c742-11ea-8dc4-f50533116c01.png
+![image](https://user-images.githubusercontent.com/50911878/87623139-566d6400-c742-11ea-8dc4-f50533116c01.png)
 
 Polymorphism Types with difference
 https://user-images.githubusercontent.com/50911878/89005849-1520ab00-d323-11ea-87d2-0b06efa58550.png
